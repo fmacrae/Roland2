@@ -20,3 +20,7 @@ Use a 6V power supply for the motors.
 Dupont wires.
 Header pins.
 Bootlace ferrules for connecting wires.
+
+# Installation
+sudo apt install python3-gpiozero
+
